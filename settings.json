@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "orangemc30.aternos.me:49808",
+    "port": 49808,
     "version": "1.21.1"
   },
   "position": {
